@@ -14,40 +14,52 @@
 
 ## About
 
-Cybersecurity student focused on **cloud penetration testing**, with emphasis on **AWS security**, **IAM privilege escalation**, and **cloud misconfiguration analysis**.  
+Cybersecurity student focused on **cloud penetration testing**, with emphasis on **AWS security**, **IAM privilege escalation**, and **cloud misconfiguration analysis**.
+
 Hands-on learning through labs and CTF environments, with a practical and technical approach.
+
+**Currently:** Exploring IAM abuse scenarios and building detection labs.
 
 ---
 
 ## Current Focus
 
 **Cloud Security**
-- IAM policy abuse and privilege escalation  
-- S3 misconfigurations and data exposure  
-- CloudTrail logging and detection basics  
-- Cross-account trust relationships  
+- IAM policy abuse and privilege escalation
+- S3 misconfigurations and data exposure
+- CloudTrail logging and detection basics
+- Cross-account trust relationships
 
 **Offensive Techniques**
-- Cloud environment enumeration  
-- Credential misuse and lateral movement  
-- Post-exploitation in cloud contexts  
+- Cloud environment enumeration
+- Credential misuse and lateral movement
+- Post-exploitation in cloud contexts
 
 ---
 
-## Tooling
+## Tools
 
 **Cloud**
-- AWS, AWS CLI  
-- Pacu  
-- ScoutSuite  
+- AWS, AWS CLI
+- Pacu
+- ScoutSuite
 
 **Offensive Security**
-- Kali Linux  
-- Burp Suite  
-- Nmap  
+- Kali Linux
+- Burp Suite
+- Nmap
+- Metasploit
 
 **Scripting & Environment**
-- Python  
-- Bash  
-- Linux  
-- Git  
+- Python
+- Bash
+- Linux
+- Git
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oumaklaus&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&hide=contribs)
+
+</div>
