@@ -1,64 +1,26 @@
-# OumaClause
+<div align="center">
 
-Cybersecurity student with a focus on **cloud penetration testing** and **AWS security**.  
-Actively developing hands-on skills in identifying and exploiting cloud misconfigurations, IAM weaknesses, and insecure infrastructure designs through labs, CTFs, and independent research.
+# 👋 Hey, I'm OumaClause
 
-Portfolio: https://oumaclause.netlify.app  
-Hack The Box: https://app.hackthebox.com/users/2205959  
-TryHackMe: https://tryhackme.com/p/OumaClause  
+### Aspiring Cloud Penetration Tester | Security Enthusiast | CTF Player
 
----
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/users/2205959)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/OumaClause)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://oumaclause.netlify.app)
 
-## Focus Areas
-
-- AWS security assessment  
-- IAM privilege escalation and misconfiguration abuse  
-- Cloud infrastructure attack paths  
-- CTF-based offensive security training  
+</div>
 
 ---
 
-## Technical Skills
+## 🧑‍💻 About Me
 
-**Offensive Security**
-- Network and web application reconnaissance
-- Vulnerability identification and exploitation
-- Post-exploitation fundamentals
-
-**Cloud & Infrastructure**
-- Amazon Web Services (IAM, EC2, S3)
-- Linux system administration
-- Container fundamentals (Docker)
-
-**Tooling**
-- Nmap  
-- Burp Suite  
-- Metasploit  
-- Kali Linux  
-
-**Scripting**
-- Python
-- Bash
-
----
-
-## Practical Experience
-
-- Solving offensive security labs and challenges on Hack The Box  
-- Completing structured learning paths on TryHackMe  
-- Writing internal notes and documentation on cloud attack techniques  
-
----
-
-## Goals
-
-- Develop strong practical competency in cloud penetration testing  
-- Gain real-world exposure to AWS security assessments  
-- Contribute to open security research and technical writeups  
-
----
-
-## Contact
-
-Portfolio: https://oumaclause.netlify.app  
-GitHub: https://github.com/OumaClause  
+```python
+class OumaClause:
+    def __init__(self):
+        self.role = "Aspiring Cloud Penetration Tester"
+        self.focus = ["AWS Security", "Cloud Pentesting", "Web Application Security"]
+        self.learning = ["AWS", "Azure", "Kubernetes Security"]
+        self.hobbies = ["CTFs", "Bug Bounty", "Writing Writeups"]
+    
+    def current_goal(self):
+        return "Breaking into cloud security professionally"
