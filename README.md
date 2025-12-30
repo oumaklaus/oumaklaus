@@ -15,7 +15,7 @@
 ## About
 
 Cybersecurity student focused on **cloud penetration testing**, with emphasis on **AWS security**, **IAM privilege escalation**, and **cloud misconfiguration analysis**.  
-Hands-on learning through labs and CTF platforms, with a practical, evidence-driven approach.
+Hands-on learning through labs and CTF environments, with a practical and technical approach.
 
 ---
 
@@ -51,19 +51,3 @@ Hands-on learning through labs and CTF platforms, with a practical, evidence-dri
 - Bash  
 - Linux  
 - Git  
-
----
-
-## Training Platforms
-
-| Platform | Profile |
-|---------|---------|
-| Hack The Box | https://app.hackthebox.com/users/2205959 |
-| TryHackMe | https://tryhackme.com/p/OumaClause |
-
----
-
-## Links
-
-Portfolio: https://oumaclause.netlify.app  
-GitHub: https://github.com/oumaklaus
