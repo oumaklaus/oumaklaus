@@ -1,81 +1,64 @@
-<div align="center">
+# OumaClause
 
-# 👋 Hi, I’m **OumaClause**
+Cybersecurity student with a focus on **cloud penetration testing** and **AWS security**.  
+Actively developing hands-on skills in identifying and exploiting cloud misconfigurations, IAM weaknesses, and insecure infrastructure designs through labs, CTFs, and independent research.
 
-**Aspiring Cloud Penetration Tester | Cybersecurity Student**  
-Specializing in **AWS Security, IAM exploitation, and cloud attack paths**
-
-[🌐 Portfolio](https://oumaclause.netlify.app) •  
-[🧠 Hack The Box](https://app.hackthebox.com/users/2205959) •  
-[🎯 TryHackMe](https://tryhackme.com/p/OumaClause)
-
-</div>
+Portfolio: https://oumaclause.netlify.app  
+Hack The Box: https://app.hackthebox.com/users/2205959  
+TryHackMe: https://tryhackme.com/p/OumaClause  
 
 ---
 
-## 🧠 About Me
+## Focus Areas
 
-I’m a cybersecurity student focused on **cloud penetration testing**, with hands-on practice in identifying and exploiting **AWS misconfigurations**, **IAM privilege escalation paths**, and **real-world cloud weaknesses**.
-
-I actively sharpen my skills through **CTFs**, **cloud labs**, and **security research**, while documenting my learning to build a strong offensive security foundation.
-
-> *Breaking into cloud environments — legally.* ☁️🔓
-
----
-
-## 🔥 Current Focus
-
-- ☁️ **AWS Security & IAM Attacks**
-- 🏴‍☠️ **Hack The Box (Machines & Challenges)**
-- 🧪 **Cloud-focused CTF Labs**
-- ✍️ **Security Writeups & Notes**
+- AWS security assessment  
+- IAM privilege escalation and misconfiguration abuse  
+- Cloud infrastructure attack paths  
+- CTF-based offensive security training  
 
 ---
 
-## 🛠️ Skills & Tools
+## Technical Skills
 
-### 🔴 Offensive Security
-- Kali Linux  
-- Burp Suite  
+**Offensive Security**
+- Network and web application reconnaissance
+- Vulnerability identification and exploitation
+- Post-exploitation fundamentals
+
+**Cloud & Infrastructure**
+- Amazon Web Services (IAM, EC2, S3)
+- Linux system administration
+- Container fundamentals (Docker)
+
+**Tooling**
 - Nmap  
+- Burp Suite  
 - Metasploit  
+- Kali Linux  
 
-### ☁️ Cloud & Infrastructure
-- AWS  
-- Linux  
-- Docker  
-- Bash  
-
-### 🧑‍💻 Scripting
-- Python  
-- Bash  
+**Scripting**
+- Python
+- Bash
 
 ---
 
-## 🏆 CTF Platforms
+## Practical Experience
 
-| Platform | Username | Focus |
-|--------|----------|-------|
-| Hack The Box | **@OumaClause** | Machines & Challenges |
-| TryHackMe | **@OumaClause** | Learning Paths |
-
----
-
-## 📈 GitHub Activity
-
-> Projects, labs, and writeups focused on cloud security and offensive techniques.
+- Solving offensive security labs and challenges on Hack The Box  
+- Completing structured learning paths on TryHackMe  
+- Writing internal notes and documentation on cloud attack techniques  
 
 ---
 
-## 📫 Connect With Me
+## Goals
 
-- 🌐 Portfolio: https://oumaclause.netlify.app  
-- 💻 GitHub: https://github.com/OumaClause  
+- Develop strong practical competency in cloud penetration testing  
+- Gain real-world exposure to AWS security assessments  
+- Contribute to open security research and technical writeups  
 
 ---
 
-<div align="center">
+## Contact
 
-**“The quieter you become, the more you can hear.”** 🔇
-
-</div>
+Portfolio: https://oumaclause.netlify.app  
+GitHub: https://github.com/OumaClause  
