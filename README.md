@@ -58,8 +58,4 @@ Hands-on learning through labs and CTF environments, with a practical and techni
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oumaklaus&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&hide=contribs)
-
-</div>
+>
