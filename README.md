@@ -2,7 +2,7 @@
 
 # Ouma Clause
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC143C&center=true&vCenter=true&width=520&lines=Cloud+Security+%7C+AWS+Penetration+Testing;IAM+Privilege+Escalation+%7C+CTFs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC143C&center=true&vCenter=true&width=520&lines=Cloud+Security+%7C+AWS+Penetration+Testing;+CTFs)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-oumaclause.netlify.app-DC143C?style=for-the-badge)](https://oumaclause.netlify.app)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-2205959-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/users/2205959)
