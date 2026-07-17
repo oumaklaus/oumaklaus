@@ -12,13 +12,13 @@
 
 ---
 
-### > whoami
+### whoami
 
-CS student at Kenyatta University. I play CTFs with k0mrads and do pentesting on the side. Currently working toward OSCP+.
+CS student at Kenyatta University. I play CTFs with k0mrads and do pentesting on the side. Currently working on a ML internship at FlyRank Ai.
 
 ---
 
-### > tools --list
+### tools --list
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-DC143C?style=flat-square&logoColor=white)
 ![Caido](https://img.shields.io/badge/Caido-DC143C?style=flat-square)
