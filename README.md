@@ -1,50 +1,23 @@
-<div align="center">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Clause
+===============================================================================================================================
 
-# Zuko
+Machine Learning Engineer
+-------------------------
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC143C&center=true&vCenter=true&width=520&lines=CTF+Player+%7C+Pentester+in+Training;OSCP%2B+Grind...;k0mrads)](https://git.io/typing-svg)
+* 🌍  I'm based in Nairobi
+* ✉️  You can contact me at [clauseyb@gmail.com](mailto:clauseyb@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-fireb3nder.dev-DC143C?style=for-the-badge)](https://fireb3nder.dev)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-2205959-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/users/2205959)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-OumaClause-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/OumaClause)
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+</p>
 
-</div>
+### Socials
 
----
+<p align="left"> <a href="https://www.github.com/oumaklaus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/oumaclause" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/ufwzuko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+### Badges
 
-### whoami
+<b>My GitHub Stats</b>
 
-CS student at Kenyatta University. I play CTFs with k0mrads and do pentesting on the side. Currently working on a ML internship at FlyRank Ai.
+<a href="http://www.github.com/oumaklaus"><img src="https://github-readme-stats.vercel.app/api?username=oumaklaus&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oumaklaus's GitHub stats" /></a>
 
----
-
-### tools --list
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-DC143C?style=flat-square&logoColor=white)
-![Caido](https://img.shields.io/badge/Caido-DC143C?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-DC143C?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-DC143C?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-DC143C?style=flat-square&logo=wireshark&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-DC143C?style=flat-square)
-![Ffuf](https://img.shields.io/badge/Ffuf-DC143C?style=flat-square)
-![Netcat](https://img.shields.io/badge/Netcat-DC143C?style=flat-square)
-![Hydra](https://img.shields.io/badge/Hydra-DC143C?style=flat-square)
-![Impacket](https://img.shields.io/badge/Impacket-DC143C?style=flat-square)
-![Bloodhound](https://img.shields.io/badge/Bloodhound-DC143C?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-DC143C?style=flat-square&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-DC143C?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-DC143C?style=flat-square&logo=gnubash&logoColor=white)
-
----
-
-### > activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oumaklaus&show_icons=true&theme=dark&title_color=DC143C&icon_color=DC143C&hide_border=true&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumaklaus&layout=compact&theme=dark&title_color=DC143C&hide_border=true&bg_color=0d1117)
-
----
-
-<div align="center">
-<sub>Zuko ~ $</sub>
-</div>
+<a href="https://github.com/oumaklaus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaklaus&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
