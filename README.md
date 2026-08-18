@@ -20,16 +20,6 @@ Undergrad in Nairobi — mostly Python, mostly models, and the systems underneat
 
 ---
 
-### Projects
-
-**[reconx](https://github.com/oumaklaus/reconx)** — Python
-<!-- TODO: one line on what reconx actually does -->
-
-**[ml-internship](https://github.com/oumaklaus/ml-internship)** — Jupyter Notebook
-<!-- TODO: one line — what you built, what dataset, what you took away -->
-
----
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx4eGZ5c3V4d3N0d2M4N3Z3aG5vN2d3eXh4dXJ4Z2F4Y2Nq/13HgwGsXF0aiGY/giphy.gif" width="480" alt="Anime">
