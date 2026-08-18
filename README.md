@@ -1,21 +1,26 @@
-<div align="center">
+<h1 align="center">Clause</h1>
 
-# Clause
+<p align="center">
+  CS Student @ Kenyatta University<br>
+  Machine Learning
+</p>
 
-CS Student @ Kenyatta University  
-Machine Learning
+<p align="center">
+  <img src="YOUR_ANIME_GIF" width="750">
+</p>
 
 <br>
 
-<img src="YOUR_ANIME_GIF" width="700">
-
-<br><br>
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=oumaklaus&show_icons=true&hide_border=true&theme=github_dark" height="160">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaklaus&layout=compact&hide_border=true&theme=github_dark" height="160">
 
-<br><br>
-
-<img src="https://count.getloli.com/@oumaklaus?name=oumaklaus&theme=rule34&padding=1&darkmode=auto">
-
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=oumaklaus&theme=dark&hide_border=true">
+</p>
