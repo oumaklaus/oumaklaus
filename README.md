@@ -1,26 +1,25 @@
-<h1 align="center">Clause</h1>
-
-<p align="center">
-  CS Student @ Kenyatta University<br>
-  Machine Learning
-</p>
-
-<p align="center">
-  <img src="YOUR_ANIME_GIF" width="750">
-</p>
-
-<br>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=oumaklaus&show_icons=true&hide_border=true&theme=github_dark" height="160">
+# Clause
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaklaus&layout=compact&hide_border=true&theme=github_dark" height="160">
+**CS Student @ Kenyatta University**  
+**Machine Learning**
 
-</div>
+<img src="YOUR_ANIME_GIF" width="650">
 
 <br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=oumaklaus&theme=dark&hide_border=true">
-</p>
+<a href="https://github.com/oumaklaus">GitHub</a> ·
+<a href="https://www.linkedin.com/in/oumaclause">LinkedIn</a> ·
+<a href="https://discord.com/users/ufwzuko">Discord</a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=oumaklaus&show_icons=true&hide_border=true&theme=github_dark" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaklaus&layout=compact&hide_border=true&theme=github_dark" height="160">
+
+<br>
+
+<img src="https://count.getloli.com/@oumaklaus?name=oumaklaus&theme=rule34&darkmode=auto">
+
+</div>
