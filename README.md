@@ -1,8 +1,10 @@
 <div align="center">
 
-# Clause
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=CLAUSE&fontSize=72&fontColor=58A6FF&fontAlignY=55&animation=fadeIn" width="100%" alt="CLAUSE">
+</p>
 
-**CS Student @ Kenyatta University**  
+**CS Student @ Kenyatta University**
 **Machine Learning**
 
 <br>
